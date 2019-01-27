@@ -1,6 +1,6 @@
 # WordPress-Theme-Development-Custom-Theme
 
-Custome Theme Development in WordPress
+Custome Theme Development in WordPress...
 Consist of menus, widgets, categories and much more all handled from dashboard
 
 ![1](https://user-images.githubusercontent.com/33598165/51805907-120faf00-2295-11e9-88f2-d180f79d904a.PNG)
